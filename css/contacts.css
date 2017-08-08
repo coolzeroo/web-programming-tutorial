@@ -3,7 +3,7 @@
 }
 
 #contact-form input {
-    width: 40%;
+    width: 30%;
 }
 
 #contact-form button {
@@ -30,3 +30,21 @@
 #contacts-list th{
     font-weight: bold;
 }
+.act {
+    display:none;
+}
+
+.act a:hover {
+   display: table-column;
+}
+
+.actions {
+    display: inline;
+    background: #00aeef;
+
+}
+
+.actions:hover {
+    display:block;
+}
+
